@@ -27,6 +27,9 @@ else:
 
 #### 尝试使用图片
 ![avatar]https://img1.jiemian.com/101/original/20171225/151416532975227100_a580x330.jpg
+失败了，也许是上面那个链接的服务器做了防盗链，但是我们可以试试别的方法
+
+![Aaron Swartz]https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg
 
 
 
