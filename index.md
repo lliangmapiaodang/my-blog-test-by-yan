@@ -6,6 +6,9 @@
 ![CSDN图标](http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg "这是CSDN的图标")
 ![1]（https://wx3.sinaimg.cn/mw1024/0076X6Idgy1fvushgko0qj306405xglh.jpg"testest"）
 
+
+![i3lvfU.jpg](https://s1.ax1x.com/2018/10/03/i3lvfU.jpg)
+
 ## Step2
 让至少2门语言出现在你的作品中，3门更好，更多的话可能会有点难以把握，让人觉得有装逼或者是瞎扯的嫌疑。
 Buy the way，if you do not know 2 lengueges,don worry about that,just fake it,like me,fake it still you make it!
